@@ -2,6 +2,7 @@
 This project demonstrates how to deploy a Reddit clone app on Kubernetes using Minikube cluster and expose it to the world using Ingress.
 Below is an overview of the architecture of this Reddit Clone App running on Kubernetes.
 
+<img width="610" alt="Architecture-Diagram" src="https://github.com/katha-patel/reddit-clone-kubernetes-setup/assets/42037306/1815666c-50da-42d6-ac6d-80b1b880cd7f">
 
 
 ## Prerequisites
